@@ -1,4 +1,4 @@
-# LaTex-UESTC-Report
+# LaTeX-UESTC-Report
 
 ​	![](https://img.shields.io/badge/language-Tex-yellowgreen.svg)	![GitHub repo size](https://img.shields.io/github/repo-size/skykeyjoker/LaTex-UESTC-Report)	![GitHub](https://img.shields.io/github/license/Shincey/ChineseLatexTemplate)
 
