@@ -128,17 +128,20 @@
 % 封面
 \newcommand{\makecover}{
   \begin{center}
+  \vspace{3cm} % 头图上边距
     \begin{center}
-      \includegraphics[width=0.8\linewidth]{cover.jpg}
+      % \includegraphics[width=0.8\linewidth]{cover.jpg}
+      \includegraphics[width=0.9\linewidth]{cover.jpg}
     \end{center}
-    \vspace{1cm}
-    \bfseries\huge{实}\\
-	\bfseries\huge{验}\\
-	\bfseries\huge{报}\\
-	\bfseries\huge{告}\\
+    \vspace{2cm}
+    \bfseries\Huge{实}\\
+	\bfseries\Huge{验}\\
+	\bfseries\Huge{报}\\
+	\bfseries\Huge{告}\\
     \vspace{0.5cm}
 %    \bfseries\Large{\@expname}
 %    \vspace{3cm}
+    \vspace{3cm}
     \begin{center}
       \Large
       \linespread{2}
