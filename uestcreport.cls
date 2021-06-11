@@ -127,8 +127,8 @@
 
 % 封面
 \newcommand{\makecover}{
+  \vspace{4cm} % 头图上边距
   \begin{center}
-  \vspace{3cm} % 头图上边距
     \begin{center}
       % \includegraphics[width=0.8\linewidth]{cover.jpg}
       \includegraphics[width=0.9\linewidth]{cover.jpg}
@@ -158,7 +158,7 @@
 		\bfseries{日期：} & \@date  \\ \cline{2-2}
       \end{tabular}
     \end{center}
-    \vspace{2cm}
+%    \vspace{2cm}
 %    \Large{\@date}
   \end{center}
   \thispagestyle{empty}
