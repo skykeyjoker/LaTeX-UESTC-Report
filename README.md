@@ -41,7 +41,7 @@ KaiTi 楷体
 Times New Roman
 ```
 
-
+* 注意：本模板仅在 TEX LIVE 2020 环境下编译通过。
 
 ## 示例
 
@@ -58,3 +58,5 @@ Times New Roman
 ## 注意事项
 
 由于水平有限，本人不保证模板的效果与学校要求 100% 符合。
+
+另外一个模板：[学期论文模板 LaTeX-UESTC-TermPaper](https://github.com/skykeyjoker/LaTeX-UESTC-TermPaper)。
